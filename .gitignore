@@ -1,6 +1,6 @@
 *.tka
 
-x64/Debug/
+Game/x64/Debug/
 
 Assets/modelData/preset/*.DDS
 
