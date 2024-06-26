@@ -2,6 +2,6 @@
 
 Game/x64/Debug/
 
-Assets/modelData/preset/*.DDS
+Game/Assets/modelData/preset/*.DDS
 
 **/shader/*.h
